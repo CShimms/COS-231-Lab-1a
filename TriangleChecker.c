@@ -49,4 +49,6 @@ int main() {
             printf("The side lengths %d and %d and %d do not compose a valid triangle.", num1, num2, num3);
       }
    }
+
+   return 0;
 }
