@@ -50,4 +50,6 @@ int main() {
             cout << "The side lengths " << num1 << " and " << num2 << " and " << num3 << " do not compose a valid triangle.";
       }
    }
+
+   return 0;
 }
